@@ -1,4 +1,4 @@
-This is a tool that allows an easy way of comparison for some popular pose prediction models.
+This tool allows an easy way of comparison for some popular pose prediction models.
 There are three supported ways of comparison: 
 * General for whole dataset
 * By keypoint, for each keypoint in a pose
@@ -24,3 +24,7 @@ Launching the app without any data will result in a prompt to download two sampl
 
 Screenshots:
 
+
+![Alt text](Screenshot1.png "First Page")
+
+![Alt text](Screenshot2.png "Second Page")
