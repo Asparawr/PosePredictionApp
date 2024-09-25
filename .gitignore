@@ -1,0 +1,8 @@
+/Data/Models/*
+/Data/Datasets/*
+/.vscode/
+/Data/Evaluations/*
+/Data/Predictions/*
+/Resources/__pycache__/
+/Panels/__pycache__/
+/Data copy/

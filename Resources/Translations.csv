@@ -1,0 +1,88 @@
+0,1
+Dark Mode,Tryb Ciemny
+Yes,Tak
+No,Nie
+Restart,Uruchom ponownie
+Restart to apply changes,"Uruchom ponownie, aby zastosować zmiany"
+Download Data,Pobierz dane
+Download default data?,Pobrać domyślne dane?
+Dataset,Zbiór danych
+Model,Model
+Inspector,Inspektor
+Prediction,Predykcja
+Delete,Usuń
+Add new,Dodaj nowy
+TopTabs,Górne zakładki
+Images: ,Obrazy:
+Add images from zip,Dodaj obrazy z pliku zip
+Clear images,Usuń wszyskie obrazy
+Annotations,Adnotacje
+Add json,Dodaj json
+Pose Types,Typy pozy
+Add csv,Dodaj csv
+Update Inspector,Aktualizuj inspektora
+Overview,Przegląd
+Save image,Zapisz obraz
+Enable Annotations,Adnotacje
+Enable Predictions,Predykcje
+Best predictions:,Najlepsze predykcje:
+Delete Model,Usuń model
+Add Model,Dodaj model
+Confidence,Pewność
+IOU,IOU
+Max detections,Maksymalna liczba detekcji
+Predict,Dokonaj predykcji
+Compare,Porównaj
+Predictions,Predykcje
+Keypoint name,Nazwa punktu
+Nose,Nos
+Left eye,Lewe oko
+Right eye,Prawe oko
+Left ear,Lewe ucho
+Right ear,Prawe ucho
+Left shoulder,Lewe ramię
+Right shoulder,Prawe ramię
+Left elbow,Lewy łokieć
+Right elbow,Prawy łokieć
+Left wrist,Lewy nadgarstek
+Right wrist,Prawy nadgarstek
+Left hip,Lewe biodro
+Right hip,Prawe biodro
+Left knee,Lewe kolano
+Right knee,Prawe kolano
+Left ankle,Lewa kostka
+Right ankle,Prawa kostka
+Dataset:,Zbiór danych:
+Comparison type:,Typ porównania:
+Export csv,Eksportuj csv
+Save table image,Zapisz obraz tabeli
+Pose Type,Typ pozy
+Add new dataset,Dodaj zbiór danych
+Name of the new dataset:,Nazwa nowego zbioru danych:
+Delete Dataset,Usuń zbiór danych
+Are you sure you want to delete this dataset?,Czy na pewno chcesz usunąć ten zbiór danych?
+Delete Annotation,Usuń adnotację
+Are you sure you want to delete this annotation?,Czy na pewno chcesz usunąć tę adnotację?
+Delete Pose Type,Usuń typ pozy
+Are you sure you want to delete this pose type?,Czy na pewno chcesz usunąć ten typ pozy?
+Success,Sukces
+Images cleared successfully,Obrazy wyczyszczone pomyślnie
+Ok,Ok
+Select zip file,Wybierz plik zip
+Images loaded successfully,Obrazy załadowane pomyślnie
+Don't show again,Nie pokazuj ponownie
+Prediction name: ,Nazwa predykcji:
+Prediction in progress...,Predykcja w toku...
+Stop,Stop
+Evaluate,Ewaluacja
+Evaluating...,Ewaluacja trwa...
+Prediction and evaluation finished successfully!,Predykcja i ewaluacja zakończone pomyślnie!
+Model added successfully, Model dodany pomyślnie
+Are you sure you want to delete this model?, Czy na pewno chcesz usunąć ten model?
+Are you sure you want to delete prediction: , Czy na pewno chcesz usunąć predykcję:
+Model deleted successfully, Model usunięty pomyślnie
+Net resolution, Rozdzielczość sieci
+Scale number, Scale number
+Scale gap, Scale gap
+NMS Threshold, NMS Threshold
+Select json file, Wybierz plik json
