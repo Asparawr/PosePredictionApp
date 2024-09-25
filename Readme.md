@@ -18,7 +18,7 @@ Before using:
 * Make sure you have git app installed
 * Optionally install CUDA. Supported version: 12.1
 
-To use: python `__init__.py`
+To use: `python __init__.py`
 
 Launching the app without any data will result in a prompt to download two sample datasets and models from original sources.
 
